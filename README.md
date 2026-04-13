@@ -23,10 +23,12 @@ Con más de 17 años de experiencia en el ciclo de vida de desarrollo de softwar
 
 ---
 ### 📓Educación Formal:
-*He curzado las siguientes carreras:
-- **Ingeniero en Ejecución en Computación e Informática** en la Universidad Católica del Maule (Titulado en 2018)
-- **Técnico de Nivel Superior en Computación y Análisis de Sistemas** en el CFT San Agustín e Talca (Titulado en 2014)
-- **Técnico programador en computación en la especialidad de programación en computación** INSUCO Talca (Titulado en 2009)
+- **Ingeniero en Ejecución en Computación e Informática**
+  Universidad Católica del Maule (Titulado en 2018)
+- **Técnico de Nivel Superior en Computación y Análisis de Sistemas**
+  CFT San Agustín e Talca (Titulado en 2014)
+- **Técnico programador en computación en la especialidad de programación en computación**
+  INSUCO Talca (Titulado en 2009)
 
 ---
 
