@@ -7,7 +7,7 @@ Con más de 17 años de experiencia en el ciclo de vida de desarrollo de softwar
 
 ### 🚀 Sobre mí
 - 🇨🇱 Basado en Chile.
-- 🛠️ Desarrollo Backend moderno en ** Node JS**, **PHP (Laravel)** y **Java (Spring Boot)**.
+- 🛠️ Desarrollo Backend moderno en **Node JS**, **PHP (Laravel)** y **Java (Spring Boot)**.
 - 🌐 Desarrollo de frontend moderno con **Angular, React y Vue.js**.
 - ⚙️ Entusiasta de las prácticas **DevOps**, automatización de CI/CD y contenedores (Docker).
 - ✍️ Comprometido con el **Clean Code**, principios **SOLID** y patrones de diseño.
