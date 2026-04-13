@@ -26,7 +26,7 @@ Con más de 17 años de experiencia en el ciclo de vida de desarrollo de softwar
 *He curzado las siguientes carreras:
 - **Ingeniero en Ejecución en Computación e Informática** en la Universidad Católica del Maule (2018)
 - **Técnico de Nivel Superior en Computación y Análisis de Sistemas** en el CFT San Agustín e Talca (2014)
-- ** Técnico programador en computación en la especialidad de programación en computación** INSUCO Talca (2009)
+- **Técnico programador en computación en la especialidad de programación en computación** INSUCO Talca (2009)
 
 ---
 
@@ -40,9 +40,12 @@ Con más de 17 años de experiencia en el ciclo de vida de desarrollo de softwar
 ---
 
 ### 📂 Proyectos Destacados
-1. **[SpringEduManager](https://github.com/MarceloBravo/SpringEduManager.git):** Sistema de gestión educativa con Java Spring Boot.
-2. **[Backend tienad on line] (https://github.com/MarceloBravo/shop-backend.git):** API RESTFull para un sistema de tienda e-learning
-3. **[Unsplashcol](https://github.com/MarceloBravo/unsplashcol.git):** Catálogo de fotos unsplash
+1. **[SpringEduManager]:** Sistema de gestión educativa con Java Spring Boot.
+   (https://github.com/MarceloBravo/SpringEduManager.git)
+2. **[Backend tienad on line]:** API RESTFull para un sistema de tienda e-learning
+   (https://github.com/MarceloBravo/shop-backend.git)
+3. **[Unsplashcol]:** Catálogo de fotos unsplash
+   (https://github.com/MarceloBravo/unsplashcol.git)
    
 
 ---
@@ -52,12 +55,6 @@ Con más de 17 años de experiencia en el ciclo de vida de desarrollo de softwar
 - **Portafolio Web:** https://marcelo-antonio-bravo-castillo.netlify.app/
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarceloBravo&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-</p>
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marcelo-bravo-c/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mabc@live.cl) 
