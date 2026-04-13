@@ -23,33 +23,35 @@ Con más de 17 años de experiencia en el ciclo de vida de desarrollo de softwar
 
 ---
 ### 📓Educación Formal:
-- **Ingeniero en Ejecución en Computación e Informática**
-  
+- **Ingeniero en Ejecución en Computación e Informática**  
   Universidad Católica del Maule (Titulado en 2018)
-- **Técnico de Nivel Superior en Computación y Análisis de Sistemas**
-  
+- **Técnico de Nivel Superior en Computación y Análisis de Sistemas**  
   CFT San Agustín e Talca (Titulado en 2014)
-- **Técnico programador en computación en la especialidad de programación en computación**
-  
-    INSUCO Talca (Titulado en 2009)
+- **Técnico programador en computación en la especialidad de programación en computación**  
+  INSUCO Talca (Titulado en 2009)
 
 ---
 
 ### 🎓 Certificaciones Recientes
 *Como indica el manual, la actualización constante es clave:*
-- **Diplomado en Python profesional, PUC** (Finalizado en Enero 2026 con promedion 6,9)
-- **Bootcamp Fundamentos DevOps** (Finalizado: Agosto 2025) (https://www.acreditta.com/credential/18aeb12c-3074-46e6-9ebe-69971afaf634)
-- **Bootcamp Desarrollador Aplicaciones Front-end, Vue.js** (Finalizado en Abril 2022)
-- **Diseño y Desarrollo Web, Móvil y Videojuegos** (Finalizado: Mayo 2021)
+- **Diplomado en Python profesional, PUC**  
+  (Finalizado en Enero 2026 con promedion 6,9)
+- **Bootcamp Fundamentos DevOps**  
+  (Finalizado: Agosto 2025)  
+  (https://www.acreditta.com/credential/18aeb12c-3074-46e6-9ebe-69971afaf634)
+- **Bootcamp Desarrollador Aplicaciones Front-end, Vue.js**  
+  (Finalizado en Abril 2022)
+- **Diseño y Desarrollo Web, Móvil y Videojuegos**  
+  (Finalizado: Mayo 2021)
 
 ---
 
 ### 📂 Proyectos Destacados
-1. **[SpringEduManager]:** Sistema de gestión educativa con Java Spring Boot.
+1. **[SpringEduManager]:** Sistema de gestión educativa con Java Spring Boot.  
    (https://github.com/MarceloBravo/SpringEduManager.git)
-2. **[Backend tienad on line]:** API RESTFull para un sistema de tienda e-learning
+2. **[Backend tienad on line]:** API RESTFull para un sistema de tienda e-learning  
    (https://github.com/MarceloBravo/shop-backend.git)
-3. **[Unsplashcol]:** Catálogo de fotos unsplash
+3. **[Unsplashcol]:** Catálogo de fotos unsplash  
    (https://github.com/MarceloBravo/unsplashcol.git)
    
 
