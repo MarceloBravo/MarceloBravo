@@ -49,9 +49,15 @@ Con más de 17 años de experiencia en el ciclo de vida de desarrollo de softwar
 ### 📂 Proyectos Destacados
 1. **[SpringEduManager]:** Sistema de gestión educativa con Java Spring Boot.  
    (https://github.com/MarceloBravo/SpringEduManager.git)
-2. **[Backend tienad on line]:** API RESTFull para un sistema de tienda e-learning  
+2. **[talentosp-front-back-clase4-Frontend-]:** Frontend mini tienda on-line MERN + axios avanzado con interceptores centralizado en un único archivo y sincronización de datos en varias pestañas del navegador y manejo de sessión con JWT y refreshToken
+   (https://github.com/MarceloBravo/talentosp-front-back-clase4-Frontend-.git)
+3. **[talentosp-front-back-clase4-backend]:** Backend API Rest mini tienda on-line con implementación se principios SOLID y Clean code.
+   (https://github.com/MarceloBravo/talentosp-front-back-clase4-backend.git)
+4. **[TaskFlow App]:** Aplicación PERN que permite ajendar y asignar tareas, tiene manejo de sessión, JWT y Refresh token.
+   (https://github.com/MarceloBravo/talentosp-front-back-clase5.git)
+6. **[Backend tienad on line]:** API RESTFull para un sistema de tienda e-learning  
    (https://github.com/MarceloBravo/shop-backend.git)
-3. **[Unsplashcol]:** Catálogo de fotos unsplash  
+7. **[Unsplashcol]:** Catálogo de fotos unsplash  
    (https://github.com/MarceloBravo/unsplashcol.git)
    
 
